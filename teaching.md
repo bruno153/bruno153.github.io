@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching material
-description: 
+description: Lecture notes and other documents
 ---
 
 * Biologia Cursão:
