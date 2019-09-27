@@ -17,10 +17,10 @@ Obvservamos que a população de baratas responderam a uma pressão evolutiva, a
 * b) Presença de toxinas no ambiente
 * c) Crescimento da população
 * d) Facilidades da vida moderna
-* e) Escasse de alimento
+* e) Escassez de alimento
 
 ### Exercício 2
-O fenômeno observado pode ser diversas explicações plausíveis. **Classifique cada uma** das explicações apresentadas a seguir em **Darwinismo** ou **Lamarckismo**:
+O fenômeno observado pode ter diversas explicações plausíveis. **Classifique cada uma** das explicações apresentadas a seguir em **Darwinismo** ou **Lamarckismo**:
 
 1. A exposição precoce dos ovos de barata aos inseticidas aplicados permitiu a adaptação dos ovos sobreviventes às toxinas, _acostumando-os_ com os venenos aplicados.
 2. Devido a variabilidade genética da população de baratas, alguns ovos eram ligeiramente mais resistentes ao veneno, aumentando sua probabilidade de sobreviver a cada aplicação, gerando a próxima geração mais resistente ao veneno, e finalmente reestabelecendo uma população completamente resistente às toxinas.
@@ -32,4 +32,4 @@ O fenômeno observado pode ser diversas explicações plausíveis. **Classifique
 
 Por exemplo, **camuflagem** é um exemplo de vantagem evolutiva, pois a capacidade de escapar de predadores misturando-se com o meio ambiente aumenta suas chances de sobrevivência e consequentemente de reprodução.
 
-No **exercício 2** foram apresentadas 4 possíveis explicações pelas quais as baratas foram capazes de superar a *pressão evolutiva**. Dentre as diferentes explicações, foram apresentadas **somente duas vantagens evolutivas diferentes** apontadas como explicação da adaptação das baratas. **Quais são as vantagens evolutivas apresentadas?*
+No **exercício 2** foram apresentadas 4 possíveis explicações pelas quais as baratas foram capazes de superar a **pressão evolutiva**. Dentre as diferentes explicações, foram apresentadas **somente duas vantagens evolutivas diferentes** apontadas como explicação da adaptação das baratas. **Quais são as vantagens evolutivas apresentadas?**
