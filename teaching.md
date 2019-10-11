@@ -11,3 +11,4 @@ description: Lecture notes and other documents
 * Biologia Cursão - Exercícios:
 	* <a href="https://drive.google.com/open?id=1suixRGqW4daSmFdwmwaopXc8irHulRFI399-pu5qicw">Lista 1 (Cana-de-açúcar, coelhos e abelhas)</a>
 	* <a href="\assets\teaching\ex1">Exercício - Evolução de baratas</a>
+	* <a href="\assets\teaching\ex2">Exercício - Caranguejo Pom-pom</a>
