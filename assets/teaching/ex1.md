@@ -6,17 +6,17 @@ description: Lecture notes and other documents
 
 ## Inseticidas e pressão evolutiva
 ***
-Inseticidas em aerosol (Raid, SBP, Baygon, etc) tornaram prático o uso de inseticidas. Entretanto, as facilidades da vida moderna tem suas consequências. Suponha que em uma casa inseticidas em aerosol eram usadas de forma preventiva, aplicando-os na parte inferior dos móveis para eliminar ovos e eventualmente baratas alí presentes. A população de baratas observada na casa diminuiu drasticamente nos primeiros meses de aplicação, presumidamente devido ao uso preventivo do inseticida. Entretanto, depois de um período a população de baratas cresceu novamente, retornando ao estado anterior à aplicação mesmo continuando a aplicar o inseticida preventivamente.
+Inseticidas em aerosol (Raid, SBP, Baygon, etc) tornaram prático o uso de inseticidas. Entretanto, as facilidades da vida moderna tem suas consequências. Suponha que em uma casa inseticidas em aerosol eram usadas de forma preventiva, aplicando-os na parte inferior dos móveis para eliminar ovos e eventualmente baratas alí presentes. A população de baratas observada na casa diminuiu drasticamente nos primeiros meses de aplicação, presumidamente devido ao uso do inseticida. Entretanto, depois de um período a população de baratas cresceu novamente, retornando ao estado anterior à aplicação mesmo continuando a aplicar o veneno.
 
 ***
 
 ### Exercício 1
-Obvservamos que a população de baratas responderam a uma pressão evolutiva, adaptando-se e retornando a sua quantidade anterior. Qual das seguintes alternativas **é a pressão evolutiva** no caso?
+Observamos que a população de baratas responderam a uma pressão evolutiva, adaptando-se e retornando a sua quantidade anterior. Qual das seguintes alternativas **é a pressão evolutiva** no caso?
 
 * a) A parte inferior dos móveis
 * b) Presença de toxinas no ambiente
 * c) Crescimento da população
-* d) Facilidades da vida moderna
+* d) População de baratas
 * e) Escassez de alimento
 
 ### Exercício 2
