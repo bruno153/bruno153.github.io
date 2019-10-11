@@ -7,7 +7,7 @@ description: Lecture notes and other documents
 ## Relações ecológicas
 ***
 
-<img src="assets\crab.png" alt="foto de Lybia edmondsoni" width="500px"/>
+<img src="assets/crab.png" alt="foto de Lybia edmondsoni" />
 _Foto do caranguejo pom-pom. (fonte: Twisted Tailfins Aquatics)_
 
 
