@@ -23,3 +23,5 @@ And off he walked very, very scornfully.
 ***
 
 <img src="https://66.media.tumblr.com/412fcf5e9bb1ef1b964d3fede78eeb34/tumblr_ovawxofdmL1uqooxso1_1280.png" alt="nomnomnom" />
+
+<a href="https://heckifiknowcomics.com/post/164639055909/gotta-love-yourself"> Source </a>
