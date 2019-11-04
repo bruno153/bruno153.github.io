@@ -7,16 +7,16 @@ description: Lecture notes and other documents
 ## Variabilidade Genética e Batatas
 ***
 A Grande Fome na Irlanda foi um dos acontecimentos mais marcantes da história europeia, ceifando a vida de 
-pelo menos um milhão de pessoas devido à escassez de comida de 1854 até 1849. Um conjutno de fatores sociopolíticos 
+pelo menos um milhão de pessoas devido à escassez de comida de 1845 até 1849. Um conjutno de fatores sociopolíticos 
 precedem o sofrimento da população irlandesa, que favoreceram a morte da principal fonte de nutrição do país: 
 a batata.
 
 Durante o século XVIII, foi implementado um sistema de intermediação da locação de terras. Ao invés de famílias
 pobres tratarem diretamente da locação do terreno com donos de propriedades, um funcionário intermediário foi 
 envolvido, emancipando os donos de terras de responsabilidades da locação de terras e garantindo-os com uma fonte
-de renda estável. Entretanto, esse ato vulnerabilizou as camadas mais pobres, que tiveram seus terrenos fragmentados
-na tentativa de maximizar a arrecadação do alguel, aumentado a quantidade de famílias presentes por área e diminuindo
-a quantidade de terras para cultivo. 
+de renda estável. Entretanto, essa decisão vulnerabilizou as camadas mais pobres dos abusos dos intermediários, 
+que fragmentaram seus terrenos para aumentar a quantidade de famílias por área na tentativa de maximizar a arrecadação 
+do aluguel, diminuindo a quantidade de terras para cultivo. 
 
 Com a quantidade de terras úteis reduzidas a meros 5 acres no máximo (área equivalente a um quadrado com 140 metros 
 de aresta) a única planta viável para fornecer sustento para a família em tais condições limitadas era a batata.
