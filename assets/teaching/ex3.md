@@ -21,7 +21,7 @@ a quantidade de terras para cultivo.
 Com a quantidade de terras úteis reduzidas a meros 5 acres no máximo (área equivalente a um quadrado com 140 metros 
 de aresta) a única planta viável para fornecer sustento para a família em tais condições limitadas era a batata.
 Somente uma variedade foi cultivada: _Irish Lumper_, uma planta vulnerável a infestação de um fungo parasita 
-( _Phytophthora infestans_). O cultivo quase unânime dessa variedade vulnerável causou uma epidemia que dizimou a
+(_Phytophthora infestans_). O cultivo quase unânime dessa variedade vulnerável causou uma epidemia que dizimou a
 produção de alimentos no país, apodrecendo os tubérculos e desnutrindo a camada mais pobre da população. E ainda 
 o aumento da exportação de alimentos durante esse período apresentou-se como um fator agravante da crise.
 
