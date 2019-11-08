@@ -17,3 +17,4 @@ description: Lecture notes and other documents
 
 * Inglês Cursão - Assets:
 	* <a href="\assets\teaching\english_1">Fox and grapes</a>
+	* <a href="\assets\teaching\english_2">Cohort discord</a>
