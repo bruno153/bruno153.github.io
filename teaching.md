@@ -14,6 +14,7 @@ description: Lecture notes and other documents
 	* <a href="\assets\teaching\ex1">Exercício - Evolução de baratas</a>
 	* <a href="\assets\teaching\ex2">Exercício - Caranguejo Pom-pom</a>
 	* <a href="\assets\teaching\ex3">Exercício - A Grande Fome na Irlanda</a>
+	* <a href="\assets\teaching\ex4">Exercício - Micropoluição - Macroproblema</a>
 
 * Inglês Cursão - Assets:
 	* <a href="\assets\teaching\english_1">Fox and grapes</a>
