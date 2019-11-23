@@ -6,10 +6,11 @@ description: Lecture notes and other documents
 
 ## The Future of Transportation and Tesla
 
-Tesla made into headlines past week thanks to its unorthodox approach to electric
+Tesla made into headlines last week thanks to its unorthodox approach to electric
 vehicles: Cybertruck, a electric pickup truck. 
 
 <img src="tesla.jpg" alt="Photo of Cybertruck" />
+Source: <a href="https://www.tesla.com/">Tesla website</a>
 
 It's hard to look to this automobile without noticing its pointy and
 straight design. Its presentation caught people's attention also because while
