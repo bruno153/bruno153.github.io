@@ -54,7 +54,8 @@ da escassez de pesquisa do assunto. Desta maneira, investimentos em pesquisas am
 o potencial de medir o impacto de um dos materiais de insumo mais importantes da civilização moderna.
 * d) Considerando que o impacto de macroplásticos (resíduos plásticos maiores do que 5mm) é mais 
 entendida, uma solução para eliminar microplásticos é fundir todos resíduos microscópicos em 
-resíduos macroscópicos obtidos de resíduos sólidos domésticos.
+resíduos macroscópicos obtidos de resíduos domésticos e descartá-los em aterros sanitários ou
+lixões.
 * e) Tratamento de esgoto seria capaz de impedir eliminar todos microplásticos do meio ambiente,
 filtrando pedaços microscópicos provenientes de roupas feitas de fibras sintéticas.
 
